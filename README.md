@@ -24,7 +24,7 @@ A aplicação consiste em um ambiente local Java Spring, onde os dados são cole
 
 - Maven
   
-  ## Conceitos
+## Conceitos
 
 - Sistemas web e recursos
 
