@@ -62,15 +62,14 @@ A aplicação consiste em um ambiente local Java Spring, onde os dados são cole
 
 # Executando o projeto
 
-<img title="" src="file:///C:/Users/deeja/OneDrive/Imagens/Typedown/bbb680bf-08ff-41ab-967c-08feba074bf8.png" alt="bbb680bf-08ff-41ab-967c-08feba074bf8" style="zoom:50%;">
 
-<img title="" src="file:///C:/Users/deeja/OneDrive/Imagens/Typedown/38068db0-ae84-4730-8a95-9af33234ef01.png" alt="38068db0-ae84-4730-8a95-9af33234ef01" style="zoom:67%;">
+<img title="" src="https://media.licdn.com/dms/image/D4D2CAQHJr4aoGxBLHg/comment-image-shrink_8192_1280/0/1683658459903?e=1685217600&v=beta&t=GY0tPiqoo1zq4-k8U-J8Cgy9aVyQXAv9jUn3FcQZq2o" style="zoom:100%;">
 
-<img src="file:///C:/Users/deeja/OneDrive/Imagens/Typedown/870f3fa6-150e-40ac-acfe-ffcfee0d0d5a.png" title="" alt="870f3fa6-150e-40ac-acfe-ffcfee0d0d5a" style="zoom:50%;">
 
-<img src="file:///C:/Users/deeja/OneDrive/Imagens/Typedown/5a6e8e0a-eab0-477e-925d-8aa6fa92c0a7.png" title="" alt="5a6e8e0a-eab0-477e-925d-8aa6fa92c0a7" style="zoom:50%;">
+<img title="" src="https://github.com/MADS1974/dslist-mads1974/assets/86740964/e6c9e5e6-5f35-474c-b324-584bbe5efde3" style="zoom:30%;">
+<img title="" src="https://media.licdn.com/dms/image/D4D2CAQF7uGfPOK7o9A/comment-image-shrink_8192_1280/0/1683865708506?e=1685217600&v=beta&t=f08dBX9MBo6tl_Nwllls5I-8uhe7fZD6GXmFPPHtUk4" style="zoom:100%;">
 
-<img src="file:///C:/Users/deeja/OneDrive/Imagens/Typedown/c684cb2d-613c-45d9-a31f-aded85d2fd0e.png" title="" alt="c684cb2d-613c-45d9-a31f-aded85d2fd0e" style="zoom:67%;">
+
 
 ```bash
 # Criado com base no repositório original by Nelio Alves.
